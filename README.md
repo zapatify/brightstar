@@ -17,3 +17,4 @@ The checklist of tasks I would like to accomplish is
 
 Then we will get into the functional stuff. 
 
+Also, none of this was done with AI, but rather it's all homegrown (ZI: Zapata Intelligence)
