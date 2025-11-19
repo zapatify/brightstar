@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This rails application is a playground of sorts for me to experiment with. 
 
-Things you may want to cover:
+This application runs Rails 8.1.1 (I want to experiement with Rails core authentication), and Ruby 3.3.8.  
 
-* Ruby version
+The default database is Postgres (I also want to experiment with it as well)
 
-* System dependencies
+The CSS framework is Tailwind, and I want to incorporate Flowbite components in due time. 
 
-* Configuration
+The checklist of tasks I would like to accomplish is
 
-* Database creation
 
-* Database initialization
+- [ ] Enable aunthentication
+- [ ] Incorporate GitHub Actions for CI/CD
+- [ ] Add a job
 
-* How to run the test suite
+Then we will get into the functional stuff. 
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
