@@ -54,7 +54,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   # For environment variables. Added Nov 18, 2025
-  gem 'dotenv-rails'
+  gem "dotenv-rails"
 end
 
 group :development do
