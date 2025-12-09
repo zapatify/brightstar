@@ -13,8 +13,6 @@ The checklist of tasks I would like to accomplish is
 
 - [ ] Enable aunthentication
 - [ ] Incorporate GitHub Actions for CI/CD
-- [ ] Add a job
-
-Then we will get into the functional stuff. 
+- [ ] Add Solid Queue and Mission Control
 
 Also, none of this was done with AI, but rather it's all homegrown (ZI: Zapata Intelligence)
