@@ -8,11 +8,10 @@ The default database is Postgres (I also want to experiment with it as well)
 
 The CSS framework is Tailwind, and I want to incorporate Flowbite components in due time. 
 
-The checklist of tasks I would like to accomplish is
-
+The checklist of tasks I would like to accomplish:
 
 - [ ] Enable aunthentication
 - [ ] Incorporate GitHub Actions for CI/CD
-- [ ] Add Solid Queue and Mission Control
+- [ ] Add Solid Queue and Mission Control (https://github.com/rails/mission_control-jobs)
 
 Also, none of this was done with AI, but rather it's all homegrown (ZI: Zapata Intelligence)
