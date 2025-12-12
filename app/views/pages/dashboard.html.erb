@@ -1,0 +1,14 @@
+<div>
+  <h1 class="font-bold text-4xl">Dashboard</h1>
+  <br>
+
+  <h3 class="font-bold text-sm"> <%= Current.user.email_address %> </h3>
+  <br>
+
+  <p>This is mimicking a Dashboard and should be behind authentication</p>
+
+  <%= button_to "Logout", session_path, method: :delete %>
+
+
+
+</div>
